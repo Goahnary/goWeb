@@ -11,7 +11,7 @@ GOPATH="Path/to/goWeb"
 PATH="Path/to/goWeb:$PATH"
 ```
 
-also assure you have go installed correctly and you have your GOROOT set:
+also assure you [have go installed correctly](https://golang.org/doc/install) and you have your GOROOT set:
 
 ```
 GOROOT="/usr/local/go"
