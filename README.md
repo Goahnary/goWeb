@@ -1,6 +1,6 @@
 # goWeb
 
-This is a repo containing my experiements in writing a webscrapper and webserver using go and go Html Templates
+This is a repo containing my experiements in writing a webscraper and webserver using go and go Html Templates
 
 ## Getting Started
 
@@ -23,7 +23,6 @@ Then build the packages:
 cd Path/to/goWeb
 go build src/getWkuTemp/getWkuTemp.go
 go build src/tempAtWKU/tempAtWKU.go
-go build src/webscraper/webscraper.go
 ```
 
 To host the go webserver and serve the current temperature:
